@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "mqtt": "^4.3.4"
-  }
+  },
+  "name": "mqttnodejs",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopTanatorn/mqttNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopTanatorn/mqttNodeJs/issues"
+  },
+  "homepage": "https://github.com/TopTanatorn/mqttNodeJs#readme"
 }
