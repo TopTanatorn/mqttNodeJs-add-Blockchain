@@ -29,7 +29,3 @@ client.on('message', function (topic, message) {
     // message is Buffer
     console.log(message.toString());
 });
-
-setInterval(() => {
-    client.publish("test", "hello from NodeJS");
-}, 5000);
