@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "mqtt": "^4.3.4"
   },
   "name": "mqttnodejs",
   "description": "",
   "version": "1.0.0",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
